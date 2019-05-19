@@ -1,0 +1,6 @@
+mounas,dieng,458585,775864525,sdfghj@dfghj.com,present,2019
+birame,samb,12/12/2012,776666666,birame@samb.com,abandon,2017
+malick,samb,12/12/2012,777777777,malick@samb.com,exclu,2018
+youssou,samb,12/12/2012,778888888,youssou@samb.com,present,2019
+wallay,samb,12/12/2012,778888888,oussou@samb.com,present,2019
+youssou,samb,12/12/2012,778888888,youssou@samb.com,present,2018

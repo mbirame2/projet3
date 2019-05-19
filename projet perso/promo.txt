@@ -1,0 +1,4 @@
+promo1,fev à avril,2016,2016
+promo2,janv à fev,2017,2017
+promo3,janv à fev,2018,2018
+promo4,janv à fev,2019,2019

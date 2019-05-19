@@ -1,0 +1,165 @@
+html,body{
+background-image: url(products-01.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
+
+.container{
+height: 10%;
+align-content: center;
+}
+
+.card{
+  margin-top:7px;
+height: 150px;
+width: 60%;
+background-color: rgba(0,0,0,0.5) !important;
+border-radius: 12px 7px 12px 7px;
+
+}
+.social_icon span{
+font-size: 60px;
+margin-left: 10px;
+color: #FFC312;
+
+
+}
+table{
+    color:white;
+    width:100%;
+    height:360px;
+    margin-top: 1px;
+    margin-bottom: 0px;
+    border-color:white;
+    border-radius: 18px 9px 18px 9px;
+    
+}
+
+
+
+input {
+  margin-left: 1%;
+}
+tr{
+    border-radius: 12px 6px 12px 6px;
+}
+.card-body{
+    height: 450px;
+}
+
+.social_icon span:hover{
+color: white;
+cursor: pointer;
+}
+
+.card-header h3{
+color: black;
+font-style: italic;
+}
+.social_icon{
+position: absolute;
+right: 20px;
+top: -45px;
+}
+
+.input-group-prepend span {
+width: 100px;
+background-color: darkgrey;
+color: black;
+border:0.5 !important;
+border-radius: 12px 12px 12px 12px;
+}
+span {
+width: 100px;
+background-color: #FFC312;
+color: black;
+border:0.5 !important;
+border-radius: 12px 12px 12px 12px;
+}
+
+input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+
+}
+
+.remember{
+color: white;
+font-style: italic;
+}
+
+.remember input
+{
+width: 20px;
+height: 20px;
+margin-left: 15px;
+margin-right: 5px;
+
+}
+
+.login_btn{
+color: black;
+background-color: darkgrey;
+width: 100px;
+border-radius: 12px 7px 12px 7px;
+font-style: italic;
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+}
+
+.links{
+color: white;
+}
+
+.links a{
+margin-left: 4px;
+}
+.rouge{
+    background-color: red;
+}
+.footer {
+  padding: 7em 0;
+  background-color: #fafafa; }
+  
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+section h1{
+  color:white;
+}
+nav img
+{
+    border:2px solid #FFC312;
+    border-radius: 18px 6px 18px 6px;
+}
+.footerbar{
+  border-radius: 18px 18px 0px 0px;
+}
+.navbar{
+  border-radius: 0px 0px 18px 18px;
+  height: 100px ;
+}
+.list{
+  color:white;
+  font-style: italic;
+}
+
+
+
+
+
+
+
+
+
